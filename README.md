@@ -21,3 +21,7 @@ e negativas, e **Onde** destilar, por ponderação espacial.
 
 Consulte a introdução do notebook para as dependências, a configuração
 dos caminhos e os dados e checkpoints necessários.
+
+## Resultados Gerais
+
+Os resultados gerais podem ser encontrado no site web disponível em https://teachbruna.github.io/XAI-Guided-KD/
