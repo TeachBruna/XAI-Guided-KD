@@ -13,7 +13,7 @@ e negativas, e **Onde** destilar, por ponderação espacial.
 ## Conteúdo
 
 - **Notebook de experimentação:** variantes QW0, QW1, QW2 e QW3 com
-  ResNet32 e CIFAR-100-LT.
+  ResNet32/CIFAR-100-LT e MobilenetV2/ImageNet-LT.
 - **Relatório HTML:** desempenho, recuperação de erros e regressão de
   acertos do professor, além dos diagnósticos de Quanto e Onde.
 
